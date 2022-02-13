@@ -1,3 +1,7 @@
+import circus.animals.Animal;
+import circus.animals.Bird;
+import circus.animals.Duck;
+
 public class Trainer {
     public static void main(String[] args) {
         Duck d = new Duck();
